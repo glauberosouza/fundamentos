@@ -6,7 +6,7 @@ public class ConversaoTiposPrimitivos {
         float  f = (float) 10000.25;
         System.out.println(f);
         int i =  10000;
-        double d = i;
+        double d = i; // cast implicito
         System.out.println(i);
         int e = (int) 10000.25;
         System.out.println(e);
